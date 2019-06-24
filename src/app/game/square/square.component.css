@@ -1,0 +1,19 @@
+button {
+    height: 100px;
+    width: 100px;
+    background-color: #454545;
+    border-radius: 14px;
+    color: #fff;
+    height: 90px;
+    margin: 5px;
+    font-size: 50px;
+    outline: none;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.not-clickable {
+    cursor: not-allowed;
+}
